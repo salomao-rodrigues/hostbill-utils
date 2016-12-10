@@ -1,0 +1,16 @@
+{
+    "name": "salomao.rodrigues/hostbill-utils",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Salomao Rodrigues",
+            "email": "salomao88@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "HBUtils\\": "HBUtils/"
+        }
+    },
+    "require": {}
+}
